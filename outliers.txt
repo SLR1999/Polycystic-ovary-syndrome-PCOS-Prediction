@@ -1,0 +1,26 @@
+BP _Systolic (mmHg) 
+min :  12 , max: 140 
+
+BP _Diastolic (mmHg) 
+min :  8 , max: 100 
+
+Pulse rate(bpm)  
+min :  13 , max: 82
+
+AMH(ng/mL) 
+min :  0.1 , max: a 
+
+Vit D3 (ng/mL) 
+min :  0.0 , max: 6014.66 
+
+FSH(mIU/mL) 
+min :  0.21 , max: 5052.0 
+
+LH(mIU/mL) 
+min :  0.02 , max: 2018.0 
+
+PRL(ng/mL) 
+min :  0.4 , max: 128.24 
+
+PRG(ng/mL) 
+min :  0.047 , max: 85.0 
